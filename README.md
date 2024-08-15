@@ -2,7 +2,7 @@
 
 ## Mission
 
-## Project bjectives
+## Project objectives
 
 ### Scope
 
