@@ -1,3 +1,3 @@
-*FabLab Singapore Project Documentation*
+# FabLab Singapore Project Documentation
 
 **Mission**
