@@ -5,6 +5,7 @@ Develop and sustain a healty community of 'makers' in Singapore by promoting the
 - 'Maker' mindset
 - Sharing and collaboration
 - Sustainability and inclusiveness
+- Social responsibility
 
 ## Conceptual design
 
