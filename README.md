@@ -6,6 +6,8 @@ Develop and sustain a healty community of 'makers' in Singapore by promoting the
 - Sharing and collaboration
 - Sustainability and inclusiveness
 
+## Conceptual design
+
 ## Project objectives
 
 ### Scope
