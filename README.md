@@ -24,12 +24,20 @@ Develop and sustain a healty community of 'makers' in Singapore by promoting the
 > - The makers community
 > 
 > - The beneficiaries
+> 
+> - The IT infrastructure
 
 ## Project objectives
 
 ### Scope
 
 ### Deliverables
+
+* An active federation of makers communities
+
+* An entity and structure capable of promoting and administering the makers community
+
+* An IT infrastructure capable of housing the makers community workflows and records, and their integration with the FabLabs workflows
 
 ## Project roles and responsibilities
 
