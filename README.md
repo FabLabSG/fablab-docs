@@ -47,7 +47,11 @@ Develop and sustain a healty community of 'makers' in Singapore by promoting the
 
 ### Project phases
 
+<<<<<<< HEAD
 - [Conceptualisation]("Conceptualisation ToR.md")
+=======
+- [Conceptualisation](ConceptualisationToR.md)
+>>>>>>> 17339ef (Fix link)
 
 - Pilot Design and Development
 
