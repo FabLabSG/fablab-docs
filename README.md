@@ -33,7 +33,7 @@ Develop and sustain a healty community of 'makers' in Singapore by promoting the
 
 * Engage with the multiple communities of makers in Singapore to affiliate them and their members into a new FabLab Singapore federation
 
-* Setup and operate the necessary entities and structure for the FabLab Singapore federation to be governed and operated
+* Setup and operate the necessary entities and structures for the FabLab Singapore federation to be governed and operated
 
 * Setup the legal framework required for the FabLabs (ie. SP FabLab) to be able to take workflows from the community and provide training, certification and other services  to them, while being FabLab Singapore the grantor and single point of accountability on behalf of the community members
 
