@@ -47,7 +47,7 @@ Develop and sustain a healty community of 'makers' in Singapore by promoting the
 
 ### Project phases
 
-- Conceptualisation
+- [Conceptualisation](Conceptualisation.md)
 
 - Pilot Design and Development
 
