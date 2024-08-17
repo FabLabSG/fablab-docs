@@ -93,15 +93,15 @@ Such eco-system is made of several components:
 
 - [Conceptualisation](ConceptualisationToR.md)
 
-- Pilot Design and Development
+- [Pilot Design and Development](PilotDesignDevelopment.md)
 
-- Pilot Execution
+- [Pilot Execution](PilotExecution.md)
 
-- Final Design and Development
+- [Final Design and Development](FinalDesignDevelopment.md)
 
-- Implementation and Stabilisation
+- [Implementation and Stabilisation](Implementation.md)
 
-- Post-Implementation Review
+- [Post-Implementation Review](PIR.md)
 
 ## Key issues and risks
 

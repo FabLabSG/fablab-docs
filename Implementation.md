@@ -1,4 +1,4 @@
-# Conceptualisation ToR
+# Implementation and Stabilisation ToR
 
 ## Project objectives
 
