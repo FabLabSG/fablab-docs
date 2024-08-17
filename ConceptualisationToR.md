@@ -4,7 +4,19 @@
 
 ### Scope
 
-> List and describe the scope of the project.
+> 
+
+- Engage with the multiple communities of makers in Singapore about the idea of affiliating them and their members into a new FabLab Singapore federation.
+
+- Using exiting entities and structures as proxies (ie. institutions controlled by the members of the project), allow for the FabLab Singapore federation to be temporary governed and operated through the Conceptualisation Phase.
+
+- Setup the legal framework required for the FabLabs (ie. SP FabLab) to be able to take workflows from the community and provide training, certification and other services to them, while being FabLab Singapore's proxies the grantors and accountable parties on behalf of the community members.
+
+- Setup and operate a temporary IT infrastructure required for the FabLabs (ie. SP FabLab) to be able to take workflows from the community and provide training, certification and other services to them during the Conceptualisation Phase.
+
+- Develop and implement the marketing and communications strategies and plans required to develop, build, grow and sustain the FabLab Singapore during the Conceptualisation Phase.
+
+- Develop and implement the FabLab Singapore's Social Responsability Charter during the Conceptualisation Phase.
 
 ### Deliverables
 
