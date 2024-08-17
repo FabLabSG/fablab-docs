@@ -17,7 +17,7 @@ The ultimate objective of this project is to nurture an eco-system which enables
 
 Such eco-system is made of several components:
 
-* FabLabs ([https://fablabs.io]()) - digital manufacturing laboratories capable of providing everything that is needed to allow anyone to make (almost) anything:
+* **FabLabs** ([https://fablabs.io]()) - digital manufacturing laboratories capable of providing everything that is needed to allow anyone to make (almost) anything:
   
   * Knowledge and skills
   
@@ -27,23 +27,23 @@ Such eco-system is made of several components:
   
   * Manufacturing materials
 
-* Makers community leaders - individuals who build makers communities around a wide variety of themes or issues. These individuals:
+* **Makers community leaders** - individuals who build makers communities around a wide variety of themes or issues. These individuals:
   
   * Have strong networks of followers and stakeholders actively enganged around their respective themes.
   
   * Have been running existing programmes for quite some time, which are compatible with the FabLab Movement's values and could be boosted by having access to making capabilities and a much larger community.
 
-* Makers community - individuals from all walks of life who have interest in 'making things', being them already affiliated or not to any of the existing communities, and having them or not being formally educated in engineering or allied disciplines.
+* **Makers community** - individuals from all walks of life who have interest in 'making things', being them already affiliated or not to any of the existing communities, and having them or not being formally educated in engineering or allied disciplines.
 
-* Engineering students - these individuals are actually a subset of 'the makers community', with the special spin that they are still undergoing 'making' education, thus having access to making resources, but also the need for ideas and challenges of enough substance and value to become their final year projects or areas of reserach.
+* **Engineering students** - these individuals are actually a subset of 'the makers community', with the special spin that they are still undergoing 'making' education, thus having access to making resources, but also the need for ideas and challenges of enough substance and value to become their final year projects or areas of reserach.
 
-* Engineering professors - these individuals are actually a subset of 'the makers community', with the special spin that they work at engineering education institutions, thus having access not only to making resourses, but also to the engineering students and alumni, being them the perfect platform for mentoring and coaching the next generations of 'professional makers'.
+* **Engineering professors** - these individuals are actually a subset of 'the makers community', with the special spin that they work at engineering education institutions, thus having access not only to making resourses, but also to the engineering students and alumni, being them the perfect platform for mentoring and coaching the next generations of 'professional makers'.
 
-* FabLab Singapore (aka 'the federation') - it is a non-profit institution created for the purpose of glueing together the whole eco-system, providing governance, administration, communication and support services. It owns the IT for FabLab.
+* **FabLab Singapore** (aka 'the federation') - it is a non-profit institution created for the purpose of glueing together the whole eco-system, providing governance, administration, communication and support services. It owns the IT for FabLab.
 
-* IT for FabLab - this is the IT infrastructure designed, build and maintained for the purpose of supporting the data workflows and records across the eco-system. This infrastructure is owned by FabLab Singapore.
+* **IT for FabLab** - this is the IT infrastructure designed, build and maintained for the purpose of supporting the data workflows and records across the eco-system. This infrastructure is owned by FabLab Singapore.
 
-* Beneficiaries - individuals, groups and organisations (mostly non-profit organisations and charitable institutions), who can provide cases and challenges of significant social value for the makers community to address and resolve.
+* **Beneficiaries** - individuals, groups and organisations (mostly non-profit organisations and charitable institutions), who can provide cases and challenges of significant social value for the makers community to address and resolve.
 
 ## Project objectives
 
