@@ -17,7 +17,7 @@ The ultimate objective of this project is to nurture an eco-system which enables
 
 Such eco-system is made of several components:
 
-* **FabLabs** ([https://fablabs.io]()) - digital manufacturing laboratories capable of providing everything that is needed to allow anyone to make (almost) anything:
+* **FabLabs** ([https://fablabs.io](https://fablabs.io)) - digital manufacturing laboratories capable of providing everything that is needed to allow anyone to make (almost) anything:
   
   * Knowledge and skills
   
