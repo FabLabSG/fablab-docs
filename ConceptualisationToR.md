@@ -4,8 +4,6 @@
 
 ### Scope
 
-> 
-
 - Engage with the multiple communities of makers in Singapore about the idea of affiliating them and their members into a new FabLab Singapore federation.
 
 - Using exiting entities and structures as proxies (ie. institutions controlled by the members of the project), allow for the FabLab Singapore federation to be temporary governed and operated through the Conceptualisation Phase.
@@ -20,7 +18,17 @@
 
 ### Deliverables
 
-> List and describe the deliverables of the project.
+* A MOU with at least 1 FabLab who can take workflows from the community and receive payments from them through FabLab Singapore.
+
+* A temporary IT ifrastructure enabling the data flows from the community to the FabLab and the delivery of the required applications to the community.
+
+* A marketing and communications strategy and plan for the Pilot Design and Development phase, ready to be implemented and executed.
+
+* A MOU with at least 1 beneficiary to provide their cases for the Pilot Challenge.
+
+* A group of Community Leaders and community members interested and pre-signed up for participating of this project, which is significant enough to believe that we can move to the next phase.
+
+* The Pilot Design and Development ToR agreed by all the relevant parties, including its funding.
 
 ## Project roles and responsibilities
 
