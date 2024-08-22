@@ -74,20 +74,32 @@ Such eco-system is made of several components:
 ## Project roles and responsibilities
 
 > Describe the roles and reponsibilities of the people involved in the project.
+> 
+> Describe the governance structures and mechanism for approval of the Stage Gates, release of funds and liberation of resources.
 
 ## Resources, financial and quality plan
 
-> Describe the resources needed and how they are going to be obtained, provided or paid for.
-> 
-> This means man-hours of effort, infrastructure, etc. and their cost.
+At the project inception, it is still unclear the amount of resources that will be required to complete the project, however it is expected to be in the ballpark of 6,000 hours of effort, SGD 20,000 of cost of infrastructure and SGD 20,000 of marketing and communication expenses.
+
+In order to provide transparency for the leadership, the team and the community, the project will be developed in 6 phases, each of them with its own Terms of Reference, budget and schedule, which should be approved by the leadership of the project on each successive Stage Gate in order to move into the next phase.
 
 ## Work breakdown structure and schedule
 
-> Describe the project timeline and its main milestones.
-> 
-> As this is the overall umbrella for the entire project, it should describe the high level timeline of the project phases and key milestones.
-> 
-> Each project phase will have its own ToR in a separate file.
+The project will be developed in 6 phases, each of them marked by a Go/No-Go Stage Gate Review milestone:
+
+* Project Start - 13/8/2024
+
+* Stage Gate 1 - 11/9/2024
+
+* Stage Gate 2 - 6/11/2024
+
+* Stage Gate 3 - 29/1/2025
+
+* Stage Gate 4 - 23/4/2025
+
+* Stage Gate 5 - 8/10/2025
+
+* Project Close - 5/11/2025
 
 ### Project phases
 
@@ -105,7 +117,7 @@ Such eco-system is made of several components:
 
 ## Key issues and risks
 
-> List ofsignificant issues or risks identified at the time of the prepararion of the ToR.
+> List of the significant issues or risks identified at the time of the prepararion of these ToR.
 
 | Issue/Risk | Description                                                                                                             | Rating | Mitigation                                                                                                              |
 |:----------:| ----------------------------------------------------------------------------------------------------------------------- |:------:| ----------------------------------------------------------------------------------------------------------------------- |
@@ -114,7 +126,7 @@ Such eco-system is made of several components:
 
 ## Assumptions and constrains
 
-> List of significant assumptions that were made at the time of the preparation of the ToR.
+> List of the significant assumptions that were made at the time of the preparation of these ToR.
 
 * There are currently communities of makers in Singapore, who would be eager to get access to making resourcers and collaborate with each other.
 
