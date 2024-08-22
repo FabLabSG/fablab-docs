@@ -11,7 +11,7 @@ Develop and sustain a healty community of 'makers' in Singapore by promoting the
 
 ## The Eco-System
 
-![FabLab Eco-System](/home/kiko/repos/fablab-docs/Images/FabLab-Eco-System.png)
+![FabLab Eco-System](Images/FabLab-Eco-System.png)
 
 The ultimate objective of this project is to nurture an eco-system which enables the accomplishment of the Mission.
 
