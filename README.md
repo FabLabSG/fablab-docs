@@ -112,3 +112,11 @@ Such eco-system is made of several components:
 ## Assumptions and constrains
 
 > List of any significant assumptions we have made at the time of preparing the ToR.
+
+* There are currently communities of makers in Singapore, who would be eager to get access to making resourcers and collaborate with each other.
+
+* There are FabLabs in Singapore, who would be keen to expand their reach to the community and the general public.
+
+* There are groups or individuals in Singapore, who would be keen to deploy new FabLab resources.
+
+* There are educational institutions in Singapore, who would be keen to develop and deliver digital fabrication training for the community and the general public.
