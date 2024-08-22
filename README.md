@@ -135,3 +135,5 @@ The project will be developed in 6 phases, each of them marked by a Go/No-Go Sta
 * There are groups or individuals in Singapore, who would be keen to deploy new FabLab resources.
 
 * There are educational institutions in Singapore, who would be keen to develop and deliver digital fabrication training for the community and the general public.
+
+* We should be able to dedicate between 1 to 2 FTE resources to the project.
