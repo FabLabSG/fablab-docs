@@ -109,6 +109,11 @@ Such eco-system is made of several components:
 > 
 > This should be for the issues and risks identified at the time of the issuance of the ToR, because in reality we will track the issues and risks on the tracker.
 
+| Issue/Risk | Description                                                                                                             | Rating | Mitigation                                                                                                              |
+|:----------:| ----------------------------------------------------------------------------------------------------------------------- |:------:| ----------------------------------------------------------------------------------------------------------------------- |
+| Risk       | Spend a lot of effort and resources to find out that there is no interest in the community or the key parties involved. | High   | Early engament of key stakeholders. Stagegated project development in phases.                                           |
+| Risk       | Not being able to secure the required resources.                                                                        | High   | Keep the project as lean as possible. Early engagement of potential spensors. Stagegated project development in phases. |
+
 ## Assumptions and constrains
 
 > List of any significant assumptions we have made at the time of preparing the ToR.
