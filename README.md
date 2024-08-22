@@ -105,18 +105,16 @@ Such eco-system is made of several components:
 
 ## Key issues and risks
 
-> Describe the main issues and risks of the project, ranking them on High, Medium or Low, and indicating their mitigation measures if available.
-> 
-> This should be for the issues and risks identified at the time of the issuance of the ToR, because in reality we will track the issues and risks on the tracker.
+> List ofsignificant issues or risks identified at the time of the prepararion of the ToR.
 
 | Issue/Risk | Description                                                                                                             | Rating | Mitigation                                                                                                              |
 |:----------:| ----------------------------------------------------------------------------------------------------------------------- |:------:| ----------------------------------------------------------------------------------------------------------------------- |
 | Risk       | Spend a lot of effort and resources to find out that there is no interest in the community or the key parties involved. | High   | Early engament of key stakeholders. Stagegated project development in phases.                                           |
-| Risk       | Not being able to secure the required resources.                                                                        | High   | Keep the project as lean as possible. Early engagement of potential spensors. Stagegated project development in phases. |
+| Risk       | Not being able to secure the required resources and funds.                                                              | High   | Keep the project as lean as possible. Early engagement of potential spensors. Stagegated project development in phases. |
 
 ## Assumptions and constrains
 
-> List of any significant assumptions we have made at the time of preparing the ToR.
+> List of significant assumptions that were made at the time of the preparation of the ToR.
 
 * There are currently communities of makers in Singapore, who would be eager to get access to making resourcers and collaborate with each other.
 
