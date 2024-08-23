@@ -77,13 +77,12 @@ Such eco-system is made of several components:
 
 ![FabLabSG Outreach](Images/FabLabSG-Org-Engagement.png)
 
-* Beneficiary Liaison: Zann H, others
-Establishes and maintains communication with our Beneficieries for mutual understanding and cooperation for the Pilot Challenge.
+* Beneficiary Liaison: Zann H, others<br> Establishes and maintains communication with our Beneficieries for mutual understanding and cooperation for the Pilot Challenge.
 
-* Makers Community Liaison: ??
+* Makers Community Liaison: ??<br>
 Establishes and maintains communication with the Makers Community for mutual understanding and cooperation for the Pilot Challenge.
 
-* Challenge Producer: ??
+* Challenge Producer: ??<br>
 Runs the Pilot Challenge. , Keeping track of timline, resources and deliverables.
 
 > Describe the governance structures and mechanism for approval of the Stage Gates, release of funds and liberation of resources.

@@ -12,9 +12,9 @@
 
 * Introduce the 'Challenge' concept that we will be adopting to introduce Inclusivity to the Makers Community and how they can include Inclusivity in their design approach.
 
-* Agreed on roles, timeline and responsibility for first Pilot Chalenge
-
 * Identify Benefeciary-Contact-Person(BCP) as main contact person for the Challenge/s.
+
+* Agreed on roles, timeline and responsibility for first Pilot Chalenge
 
 * Work with BCP to identify and document the details of possible Challenges, listing all pain-points, must-haves and good-to-haves that each solutions need to consider.
 
@@ -35,7 +35,7 @@
 
 * Produce detail timelines for the Pilot Challenge
 
-* Collaterals for Pilot Challenge
+* Create collaterals/communicating materials for Pilot Challenge
 
 * Identify various roles needed for the Pilot Challenge.
 
@@ -43,14 +43,18 @@
 (work-in-progress)
 > Describe the roles and reponsibilities of the people involved in the project.
 
-* Beneficiary Liaison: Zann H, others
+* Beneficiary Liaison: Zann H, others<br>
 Establishes and maintains communication with our Beneficieries for mutual understanding and cooperation for the Pilot Challenge.
 
-* Makers Community Liaison: ??
+* Makers Community Liaison: To-be-identified <br>
 Establishes and maintains communication with the Makers Community for mutual understanding and cooperation for the Pilot Challenge.
 
-* Pilot Challenge Producer: ??
+* Pilot Challenge Producer: To-be-identified <br>
+Runs the Pilot Challenge. Keeping track of timline, resources and deliverables.
+
+* Communications: To-be-identified<br>
 Runs the Pilot Challenge. , Keeping track of timline, resources and deliverables.
+
 
 ## Resources, financial and quality plan
 (work-in-progress)
