@@ -74,8 +74,21 @@ Such eco-system is made of several components:
 ## Project roles and responsibilities
 
 > Describe the roles and reponsibilities of the people involved in the project.
-> 
+
+![FabLabSG Outreach](Images/FabLabSG-Org-Engagement.png)
+
+* Beneficiary Liaison: Zann H, others
+Establishes and maintains communication with our Beneficieries for mutual understanding and cooperation for the Pilot Challenge.
+
+* Makers Community Liaison: ??
+Establishes and maintains communication with the Makers Community for mutual understanding and cooperation for the Pilot Challenge.
+
+* Challenge Producer: ??
+Runs the Pilot Challenge. , Keeping track of timline, resources and deliverables.
+
 > Describe the governance structures and mechanism for approval of the Stage Gates, release of funds and liberation of resources.
+
+
 
 ## Resources, financial and quality plan
 
