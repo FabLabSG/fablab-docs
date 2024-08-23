@@ -36,24 +36,30 @@
 
 ## Resources, financial and quality plan
 
-> Describe the resources needed and how they are going to be obtained, provided or paid for.
-> 
-> This means man-hours of effort, infrastructure, etc. and their cost.
+This face requires very limited resources, basically the internal effort needed to perform the tasks and produce the documents required for the next phase.
+
+The budget is estimated in 80 hours of effort.
+
+All the deliverables will be reviewed and approved by the leadership on Stage Gate 1 in order to proceed to the next phase.
 
 ## Work breakdown structure and schedule
 
-> Describe the project timeline and its main milestones.
-> 
-> As this project is a phase of an overaching project, it should describe its own timeline and milestones within the context to the key milestones of the ovearching one.
-> 
-> Each project phase will have its own ToR in a separate file.
+The details of the tasks and status can be found in the project on GitHub [here](https://github.com/orgs/FabLabSG/projects/2).
+
+The main milestones of this phase are as follow:
+
+- Project Start - 13/8/2024
+
+- Stage Gate 1 - 11/9/2024
 
 ## Key issues and risks
 
-> Describe the main issues and risks of the project, ranking them on High, Medium or Low, and indicating their mitigation measures if available.
-> 
-> This should be for the issues and risks identified at the time of the issuance of the ToR, because in reality we will track the issues and risks on the tracker.
+> List of the significant issues or risks identified at the time of the prepararion of these ToR.
+
+No new issues or risks were identified. Same as the ones identified for the overarching project
 
 ## Assumptions and constrains
 
-> List of any significant assumptions we have made at the time of preparing the ToR.
+> List of the significant assumptions that were made at the time of the preparation of these ToR.
+
+- No new assumptions were made. Same as the ones indetified for the overarching project
