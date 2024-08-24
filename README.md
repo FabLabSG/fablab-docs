@@ -150,4 +150,6 @@ The project will be developed in 6 phases, each of them marked by a Go/No-Go Sta
 
 * There are educational institutions in Singapore, that would be keen to develop and deliver digital fabrication training for the community and the general public.
 
+* There are groups or institutions in Singapore, who would be keen to present their real-life cases of social value, as candidate challenges for the makers community.
+
 * We should be able to dedicate between 1 to 2 FTE resources to the project.
