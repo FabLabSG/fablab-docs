@@ -32,7 +32,9 @@
 
 ## Project roles and responsibilities
 
-> Describe the roles and reponsibilities of the people involved in the project.
+> List and description of the roles and reponsibilities of the people involved in the project.
+
+* Same as the ones described for the overarching project.
 
 ## Resources, financial and quality plan
 
@@ -56,10 +58,10 @@ The main milestones of this phase are as follow:
 
 > List of the significant issues or risks identified at the time of the prepararion of these ToR.
 
-No new issues or risks were identified. Same as the ones identified for the overarching project
+No new issues or risks were identified. Same as the ones identified for the overarching project.
 
 ## Assumptions and constrains
 
 > List of the significant assumptions that were made at the time of the preparation of these ToR.
 
-- No new assumptions were made. Same as the ones indetified for the overarching project
+- No new assumptions were made. Same as the ones indetified for the overarching project.
