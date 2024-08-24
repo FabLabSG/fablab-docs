@@ -77,17 +77,17 @@ Such an eco-system is made of several components:
 
 ![FabLabSG Outreach](Images/FabLabSG-Org-Engagement.png)
 
-* Beneficiary Liaison: Zann H, others<br> Establishes and maintains communication with our beneficiaries for mutual understanding and cooperation for the Pilot Challenge.
+* Project Manager: (Vacant)<br>Accountable for the management of the development and execution of the project.
 
-* Makers Community Liaison: ??<br>
-Establishes and maintains communication with the Makers Community for mutual understanding and cooperation for the Pilot Challenge.
+* Project Customer: FabLab Singapore Managment Board<br>Responsible for the approval of the ToR, the acceptance of the deliverables, the approval of the Stage Gates and the provision of the resources required for the development and execution of the project.
 
-* Challenge Producer: ??<br>
-Runs various Challenges with the Makers Community for the beneficiaries. Planning and keeping track of timelines, resources, and deliverables.
+* Beneficiary Liaison: Zann H, others<br>Establishes and maintains communication with our beneficiaries for mutual understanding and cooperation for the Pilot Challenge.
 
-> Describe the governance structures and mechanism for approval of the Stage Gates, release of funds, and liberation of resources.
+* Makers Community Liaison: (Vacant)<br>Establishes and maintains communication with the Makers Community for mutual understanding and cooperation for the Pilot Challenge.
 
+* Challenge Producer: (Vacant)<br>Runs various Challenges with the Makers Community for the beneficiaries. Planning and keeping track of timelines, resources, and deliverables.
 
+> 
 
 ## Resources, financial and quality plan
 
@@ -133,7 +133,7 @@ The project will be developed in 6 phases, each of them marked by a Go/No-Go Sta
 
 | Issue/Risk | Description                                                                                                             | Rating | Mitigation                                                                                                              |
 |:----------:| ----------------------------------------------------------------------------------------------------------------------- |:------:| ----------------------------------------------------------------------------------------------------------------------- |
-| Risk       | Spend a lot of effort and resources to find out that there is no interest in the community or the key parties involved. | High   | Early engagement of key stakeholders. Stagegated project development in phases.                                           |
+| Risk       | Spend a lot of effort and resources to find out that there is no interest in the community or the key parties involved. | High   | Early engagement of key stakeholders. Stagegated project development in phases.                                         |
 | Risk       | Not being able to secure the required resources and funds.                                                              | High   | Keep the project as lean as possible. Early engagement of potential sponsors. Stagegated project development in phases. |
 
 ## Assumptions and constraints
