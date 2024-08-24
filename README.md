@@ -93,7 +93,7 @@ Such an eco-system is made of several components:
 
 * Marketing and Communications Executive: (Vacant)<br> Support the development of marketing plans and projects.<br>Assist with the development and production of marketing material and content.<br>Update and maintain digital marketing content on various platforms.
 
-* IT Architect: (Vacant)<br>Design and develop the IT infrastructure required for the operation of FabLab Singapore.
+* IT Architect: (Vacant)<br>Manages the design and development of the IT infrastructure required for the operation of FabLab Singapore.
 
 * Finance Officer: (Vacant)<br>Manages and administers the funds available for the project.
 
