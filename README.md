@@ -91,6 +91,8 @@ Such an eco-system is made of several components:
 
 * Challenge Producer: (Vacant)<br>Runs various Challenges with the Makers Community for the beneficiaries.<br>Planning and keeping track of timelines, resources, and deliverables.
 
+* Marketing and Communications Executive: (Vacant) <br> Support the development of marketing plans and projects. Assist with the development and production of marketing material and content. Update and maintain digital marketing content on various platforms.
+
 ## Resources, financial and quality plan
 
 At the project inception, it is still unclear the amount of resources that will be required to complete the project, however, it is expected to be in the ballpark of 6,000 hours of effort, SGD 20,000 for the cost of infrastructure, and SGD 20,000 for marketing and communication expenses.
