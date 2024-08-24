@@ -89,7 +89,7 @@ Such an eco-system is made of several components:
 
 * Legal Advisor: (Vacant)<br>Provide legal advice and guidance to the project organisation.<br>Act as liaison coordinating any external legal services.
 
-* Challenge Producer: (Vacant)<br>Runs various Challenges with the Makers Community for the beneficiaries. Planning and keeping track of timelines, resources, and deliverables.
+* Challenge Producer: (Vacant)<br>Runs various Challenges with the Makers Community for the beneficiaries.<br>Planning and keeping track of timelines, resources, and deliverables.
 
 ## Resources, financial and quality plan
 
