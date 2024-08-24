@@ -33,11 +33,13 @@
 
 * Identify the main contact person/s from the Beneficiary/ies and Makers Community for the Pilot Challenge
 
-* Produce detailed timelines for the Pilot Challenge
-
 * Create collaterals/communicating materials for the Pilot Challenge
 
-* Identify various roles needed for the Pilot Challenge.
+* Identify various roles and resources needed to run the Pilot Challenge.
+
+* Identify and schedule various Testing Stages for the Pilot Challenges
+
+* Produce detailed timelines and milestones for the Pilot Challenge
 
 ## Project roles and responsibilities
 (work-in-progress)
@@ -62,9 +64,6 @@ Define standards and reusable communications materials for various groups and me
 > 
 > This means man-hours of effort, infrastructure, etc., and their cost.
 
->> Testing Prototypes
-* Beta Testing - Test
-* Real
 
 ## Work breakdown structure and schedule
 
