@@ -55,7 +55,7 @@ Establishes and maintains communication with the Makers Community for mutual und
 Runs the Pilot Challenge. Keeping track of timelines, resources, and deliverables.
 
 * Marketing & Communications Executive: To-be-identified<br>
-Define standards and reusable communications materials for various groups and mediums. Includes text and various multimedia formats.
+* Marketing and Communications Executive: (Vacant) <br> Define and produce standards and reusable communications materials for various groups and mediums in the Pilot Challenge. Includes text and various media formats.
 
 
 ## Resources, financial and quality plan
