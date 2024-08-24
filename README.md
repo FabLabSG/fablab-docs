@@ -79,7 +79,7 @@ Such an eco-system is made of several components:
 
 * Project Manager: (Vacant)<br>Accountable for the management of the development and execution of the project.
 
-* Project Customer: FabLab Singapore Managment Board<br>Responsible for the approval of the ToR, the acceptance of the deliverables, the approval of the Stage Gates and the provision of the resources required for the development and execution of the project.
+* Project Customer: FabLab Singapore Management Board<br>Responsible for the approval of the ToR, the acceptance of the deliverables, the approval of the Stage Gates and the provision of the resources required for the development and execution of the project.
 
 * Beneficiary Liaison: Zann H, others<br>Establishes and maintains communication with our beneficiaries for mutual understanding and cooperation for the Pilot Challenge.
 
