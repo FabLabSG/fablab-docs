@@ -85,7 +85,7 @@ Such an eco-system is made of several components:
 
 * Makers Community Liaison: (Vacant)<br>Establishes and maintains communication with the Makers Community for mutual understanding and cooperation for the Pilot Challenge.
 
-* FabLabs Liaison: (Vacant)<br>Establishes and maintains engagement and communication with the FabLabs.
+* FabLabs and Institutes of Education Liaison: (Vacant)<br>Establishes and maintains engagement and communication with the FabLabs and the institutes of education.
 
 * Legal Advisor: (Vacant)<br>Provide legal advice and guidance to the project organisation.<br>Act as liaison coordinating any external legal services.
 
