@@ -73,7 +73,7 @@ Such an eco-system is made of several components:
 
 ## Project roles and responsibilities
 
-> Describe the roles and responsibilities of the people involved in the project.
+> Description of the main roles and responsibilities of the people involved in the project.
 
 ![FabLabSG Outreach](Images/FabLabSG-Org-Engagement.png)
 
@@ -86,8 +86,6 @@ Such an eco-system is made of several components:
 * Makers Community Liaison: (Vacant)<br>Establishes and maintains communication with the Makers Community for mutual understanding and cooperation for the Pilot Challenge.
 
 * Challenge Producer: (Vacant)<br>Runs various Challenges with the Makers Community for the beneficiaries. Planning and keeping track of timelines, resources, and deliverables.
-
-> 
 
 ## Resources, financial and quality plan
 
