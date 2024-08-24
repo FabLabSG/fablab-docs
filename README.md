@@ -91,7 +91,11 @@ Such an eco-system is made of several components:
 
 * Challenge Producer: (Vacant)<br>Runs various Challenges with the Makers Community for the beneficiaries.<br>Planning and keeping track of timelines, resources, and deliverables.
 
-* Marketing and Communications Executive: (Vacant) <br> Support the development of marketing plans and projects. Assist with the development and production of marketing material and content. Update and maintain digital marketing content on various platforms.
+* Marketing and Communications Executive: (Vacant)<br> Support the development of marketing plans and projects.<br>Assist with the development and production of marketing material and content.<br>Update and maintain digital marketing content on various platforms.
+
+* IT Architect: (Vacant)<br>Design and develop the IT infrastructure required for the operation of FabLab Singapore.
+
+* Finance Officer: (Vacant)<br>Manages and administers the funds available for the project.
 
 ## Resources, financial and quality plan
 
