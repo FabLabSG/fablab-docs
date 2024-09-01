@@ -33,9 +33,9 @@ Such an eco-system is made of several components:
   
   * Have been running existing programs for quite some time, which are compatible with the FabLab Movement's values and could be boosted by having access to making capabilities and a much larger community.
 
-* **Makers community** - individuals from all walks of life who have an interest in 'making things', being them already affiliated or not to any of the existing communities, and having them or not being formally educated in engineering or allied disciplines.
+* **Makers community** - individuals from all walks of life who have an interest in 'making things', being them already affiliated or not to any of the existing communities, and having them or not been formally educated in engineering or allied disciplines.
 
-* **Engineering students** - these individuals are actually a subset of 'the Makers Community', with the special spin that they are still undergoing 'making' education, thus having access to making resources, but also the need for ideas and challenges of enough substance and value to become their final year projects or areas of research.
+* **Engineering students** - these individuals are actually a subset of 'the Makers Community', with the special spin that they are still undergoing 'making' education, thus having access to making resources, but also that they need ideas and challenges of enough substance and value to become their final year projects or areas of research.
 
 * **Engineering professors** - these individuals are actually a subset of 'the Makers Community', with the special spin that they work at engineering education institutions, thus having access not only to making resources but also to the engineering students and alumni, being them the perfect platform for mentoring and coaching the next generations of 'professional makers'.
 
