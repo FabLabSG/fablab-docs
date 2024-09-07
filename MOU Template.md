@@ -2,7 +2,7 @@
 
 Credits:
 
-* Scinnovent Centre For The Science Granting Councils Initiative (2020), Standard MOU Template, [https://idl-bnc-idrc.dspacedirect.org/items/b17a92db-dedd-4bc9-8ad5-d99e97d0e893](https://idl-bnc-idrc.dspacedirect.org/items/b17a92db-dedd-4bc9-8ad5-d99e97d0e893), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* From "Standard MOU Template" by Scinnovent Centre For The Science Granting Councils Initiative (2020) , [https://idl-bnc-idrc.dspacedirect.org/items/b17a92db-dedd-4bc9-8ad5-d99e97d0e893](https://idl-bnc-idrc.dspacedirect.org/items/b17a92db-dedd-4bc9-8ad5-d99e97d0e893), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ----------------------------------------------------------------------------
 
