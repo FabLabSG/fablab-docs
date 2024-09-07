@@ -22,7 +22,7 @@ SOFTWARE.
 
 ----------------------------------------------------------------------------------------
 
-### CC BY-SA 4.0 - ATTRIBUTION-SHAREALIKE 4.0 INTERNATIONAL
+### CC BY 4.0 - ATTRIBUTION 4.0 INTERNATIONAL
 
 #### You are free to:
 
@@ -37,8 +37,6 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 #### Under the following terms:
 
 **Attribution** — You must give [appropriate credit](https://creativecommons.org/licenses/by-sa/4.0/#ref-appropriate-credit) , provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by-sa/4.0/#ref-indicate-changes) . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the [same license](https://creativecommons.org/licenses/by-sa/4.0/#ref-same-license) as the original.
 
 **No additional restrictions** — You may not apply legal terms or [technological measures](https://creativecommons.org/licenses/by-sa/4.0/#ref-technological-measures) that legally restrict others from doing anything the license permits.
 
