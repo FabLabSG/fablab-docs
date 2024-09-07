@@ -35,9 +35,9 @@ both ow whom are collectively known as the "Parties",
    
    4. Training and certification of FabLab community members in digital design and manufacturing
    
-   5. Payment integration for FabLab community members' digital manufacturing workflow
+   5. Payment integration for the FabLab community members' digital manufacturing workflows
    
-   6. Access control to systems and premises involved in the FabLab Eco-System
+   6. Access control to the systems and premises involved in the FabLab Eco-System
 
 3. **Period of Collaboration.**
    Cooperation under this MOU shall be effective from DD/MM/YYYY to DD/MM/YYYY or the effective date of execution of this memorandum by the parties' authorised officer, as shall be agreed by the parties.<br>The parties shall be at liberty, upon consultation and express consensus of both contracting parties, to vary the duration of the agreement as shall be agreed by the parties to the memorandum.<br>The memorandum shall remain in effect until modification or termination by the parties via mutual consent or as prescribed in this agreement.
