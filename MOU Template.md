@@ -8,7 +8,7 @@ Credits:
 
 ## MEMORANDUM OF UNDERSTANDING
 
-This Memorandum of Understanding (this "MOU") is made and entered into on this 11 day of September, 2024 ("Effective Date") by and between:
+This Memorandum of Understanding (this "MOU") is made and entered into on this DD day of MMMMMMMM, YYYY ("Effective Date") by and between:
 
 FabLab Singapore, of Singapore (the "First Party")
 
