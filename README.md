@@ -97,6 +97,8 @@ Such an eco-system is made of several components:
 
 * Finance Officer: (Vacant)<br>Manages and administers the funds available for the project.
 
+* Fund Raiser: (Vacant)<br>Designes and implement the fund raising strategy for FabLab Singapore.
+
 ## Resources, financial and quality plan
 
 At the project inception, it is still unclear the amount of resources that will be required to complete the project, however, it is expected to be in the ballpark of 6,000 hours of effort, SGD 20,000 for the cost of infrastructure, and SGD 20,000 for marketing and communication expenses.
