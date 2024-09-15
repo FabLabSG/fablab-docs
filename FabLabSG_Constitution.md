@@ -137,7 +137,9 @@
 2. Each Member with a right to vote shall be entitled to attend and vote at General Meetings in person or in their absence, by proxy, provided that:
    
     a) a member does not appoint more than one proxy for any one General Meeting, and
+   
     b) no person present at the General Meeting may hold more than 5 proxies on behalf of Members.
+   
     c) Only members who are not resident in Singapore shall be allow to vote by proxy.
 
 3. The instrument appointing a proxy shall be in a form approved by the Management Board.
@@ -177,6 +179,7 @@
 4. The Honorary President shall:
    
     a) be the spokesperson for FabLabSG,
+   
     b) communicate from time to time with the other bodies for the purpose of obtaining and transmitting information on all matters likely to prove beneficial or of interest to members and to the Society.
 
 5. The Honorary President or, in the absence of the Honorary President, the Honorary Vice President shall preside at all meetings of the Management Board and of FabLabSG. In the absence of both a member of the Management Board shall preside.
@@ -190,8 +193,11 @@
 9. The Honorary Treasurer shall:
    
     a) retain all funds collected, and disburse all monies on behalf of the FabLabSG and shall keep an account of all monetary transactions, and shall be responsible for their correctness;
+   
     b) Issue and sign receipts, vouchers and other related documents for money received on behalf of the FabLabSG;
+   
     c) Render such financial reports or statements to be submitted at each Management Board Meeting and an Annual Statement of Income and Expenditure and Balance Sheet as at 31st December and 30th June each year for submission to the Annual General Meeting;
+   
     d) Deposit all money and other valuables belonging to the FabLabSG in such bank or banks as may be designated or approved by the Management Board except a certain sum in cash the amount of which shall be fixed by the Management Board from time to time to meet petty cash expenses on behalf of FabLabSG.
 
 10. The Honorary Assistant Treasurer shall assist the Honorary Treasurer in and where necessary the duties as enumerated herein. In the absence of the Honorary Treasurer, the Honorary Assistant Treasurer shall perform such of the duties of the Honorary Treasurer as may be directed by the Management Board.
@@ -217,15 +223,21 @@
 2. The trustees of FabLabSG shall:
    
     a) Not be more than four and not less than two in number.
+   
     b) Be elected by a General Meeting.
+   
     c) Not effect any sale or mortgage of property without the prior approval of the General Meeting of members.
+   
     d) Be elected for a term of four (4) years and reappointed for a maximum period of another four (4) years.
 
 3. The office of the trustee shall be vacated:
    
     a) If the trustee dies or becomes a lunatic or of unsound mind.
+   
     b) If he is absent from the Republic of Singapore for a period of more than one year.
+   
     c) If he is guilty of misconduct of such a kind as to render it undesirable that he continues as a trustee.
+   
     d) If he submits notice of resignation from his trusteeship.
 
 4. Notice of any proposal to remove a trustee from his trusteeship or to appoint a new trustee to fill a vacancy must be given by posting it on the notice board in the FabLabSG's premises at least two weeks before the General Meeting at which the proposal is to be discussed. The result of such General Meeting shall then be notified to the Registrar of Societies.
