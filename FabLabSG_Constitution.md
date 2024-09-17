@@ -95,7 +95,7 @@
 
 ### Section B. Annual General Meeting
 
-1. The Annual General Meeting (AGM) shall be held not later than the 30th day of June each year and at least two weeks’ notice will be given to the members and representatives eligible to vote.
+1. The Annual General Meeting (AGM) shall be held not later than the 30th day of June each year and at least two weeks' notice will be given to the members and representatives eligible to vote.
 
 2. The new Management Board elected shall take office immediately and shall be responsible for all activities of the FabLabSG until the conclusion of the following AGM.
 
@@ -174,7 +174,7 @@
 
 2. The Management Board shall have the full power to make, alter, add or reject by-laws and rules regulating the affairs of the FabLabSG on matters not inconsistent with the Constitution. Such by-laws or rules so made, added to, altered or rejected shall come into operation at such time as is fixed by the Management Board.
 
-3. The Management Board shall have power to authorize the expenditure of such sums as it may deem fit from the FabLabSG’s funds for the FabLabSG’s purposes. The Management Board may not act contrary to decisions made at General Meetings without first referring such matters to a General Meeting of members for approval.
+3. The Management Board shall have power to authorize the expenditure of such sums as it may deem fit from the FabLabSG's funds for the FabLabSG's purposes. The Management Board may not act contrary to decisions made at General Meetings without first referring such matters to a General Meeting of members for approval.
 
 4. The Honorary President shall:
    
@@ -254,7 +254,7 @@
 
 ## ARTICLE XIII. INTERPRETATION
 
-1. In the event of any question or matter arising out of any point which is not expressly provided for in the Constitution, the Management Board shall be entitled to determine such question or matter in its discretion, and the Management Board’s decision shall be final and conclusive unless it is reversed at a General Meeting of members.
+1. In the event of any question or matter arising out of any point which is not expressly provided for in the Constitution, the Management Board shall be entitled to determine such question or matter in its discretion, and the Management Board's decision shall be final and conclusive unless it is reversed at a General Meeting of members.
 
 ## ARTICLE XIV. NOTIFICATION OF CHANGE OF ADDRESS
 
